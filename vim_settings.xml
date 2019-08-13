@@ -40,7 +40,6 @@
       <file name="$USER_HOME$/PycharmProjects/basepy/面向对象/对象初始化.py" timestamp="1563795545060">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/basepy/gil/gil.py" timestamp="1565617402669" />
       <file name="$USER_HOME$/PycharmProjects/basepy/面向对象/实战/new方法测试.py" timestamp="1563971686868">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,6 +132,11 @@
       <file name="$USER_HOME$/PycharmProjects/basepy/多线程/互斥锁.py" timestamp="1564313406874">
         <mark key="[" line="27" column="51" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/basepy/mysql/mysqldemo.py" timestamp="1565699360988">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/basepy/简单的http服务器/http服务器.py" timestamp="1564584554583">
         <mark key="[" line="0" column="0" />
       </file>
@@ -221,6 +225,9 @@
       <jump line="19" column="4" filename="$USER_HOME$/PycharmProjects/basepy/多进程/进程池.py" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text>(</text>
+      </register>
       <register name="1" type="4">
         <text>t1 = threading.Thread(target=test1)
     t2 = threading.Thread(target=test2)
@@ -229,11 +236,7 @@
     t2.start()</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t1 = threading.Thread(target=test1)
-    t2 = threading.Thread(target=test2)
-
-    t1.start()
-    t2.start()</text>
+        <text>(</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgIGkrPWkK</text>
